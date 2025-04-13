@@ -1,0 +1,3 @@
+[submodule "wicked_dragon_fw"]
+	path = wicked_dragon_fw
+	url = git@github.com:GabrielKis/wicked_dragon_fw.git
