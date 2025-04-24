@@ -13,6 +13,8 @@ west init .
 west update
 west zephyr-export
 west packages pip --install
+west sdk install
+west blobs fetch hal_espressif
 ```
 
 ## To build and flash
