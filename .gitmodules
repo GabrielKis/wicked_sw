@@ -4,3 +4,6 @@
 [submodule "wicked_bubble_fw"]
 	path = wicked_bubble_fw
 	url = git@github.com:GabrielKis/wicked_bubble_fw.git
+[submodule "wicked_ccem"]
+	path = wicked_ccem
+	url = git@github.com:AliceOliveira/wicked_ccem.git
